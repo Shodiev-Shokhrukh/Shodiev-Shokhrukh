@@ -6,8 +6,8 @@
 ![Welcome!](86T4GWHN.gif)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shodiev-Shokhrukh&theme=github_dark" alt="info">
-<a href="https://app.daily.dev/revenge98" style="margin:10px"><img src="https://api.daily.dev/devcards/8ab3876d30eb4e61875cb501c631421b.png?r=lql" width="200" height="300" alt="Shodiyev Shohruh's Dev Card"/></a>       [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShodievShokhrukh&theme=github_dark&layout=compact)](https://wakatime.com/@ShodievShokhrukh)
 
+<a href="https://app.daily.dev/revenge98" style="margin:10px"><img src="https://api.daily.dev/devcards/8ab3876d30eb4e61875cb501c631421b.png?r=lql" width="200" height="300" alt="Shodiyev Shohruh's Dev Card"/></a> [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShodievShokhrukh&theme=github_dark&layout=compact)](https://wakatime.com/@ShodievShokhrukh)
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/5355808/139111924-210cc6fa-9fb1-4dac-929d-6324a5836a92.gif" width="250" height="200" />
 
