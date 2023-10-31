@@ -14,7 +14,7 @@
 [![asakew's github stats](https://github-readme-stats.vercel.app/api?username=Shodiev-Shokhrukh&theme=github_dark&show_icons=true)]
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shodiev-Shokhrukh&theme=tokyonight_duo&hide_border=true)](https://github.com/Shodiev-Shokhrukh/)
+[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com/?user=Shodiev-Shokhrukh)](https://git.io/streak-stats))
 <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
 
 **Back-end**
