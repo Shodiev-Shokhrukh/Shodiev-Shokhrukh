@@ -15,7 +15,9 @@
 <!-- Readme Docs: https://github.com/anuraghazra/github-readme-stats -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shodiev-Shokhrukh)](https://git.io/streak-stats)
-<!-- https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- https://github.com/Shodiev-Shokhrukh/github-readme-streak-stats -->
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shodiev-Shokhrukh"/></a>
 
 **Back-end**
 
