@@ -17,8 +17,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shodiev-Shokhrukh)](https://git.io/streak-stats)
 <!-- https://github.com/Shodiev-Shokhrukh/github-readme-streak-stats -->
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shodiev-Shokhrukh"/></a>
-
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
